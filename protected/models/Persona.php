@@ -42,7 +42,8 @@ class Persona extends CActiveRecord
 			array('apellidos', 'length', 'max'=>100),
 			array('identificacion', 'length', 'max'=>20),
 			array('email', 'length', 'max'=>45),
-			array('email', 'email','message'=>'The email isn´t correct'),
+			array('email', 'email','message'=>'Formato de e-mail invalido (micorreo@midominio.com)'),
+			 array('email', 'unique','message'=>'Dirección ya registrada.'),
 			// The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
 			array('id, nombres, apellidos, identificacion, nacimiento, email', 'safe', 'on'=>'search'),

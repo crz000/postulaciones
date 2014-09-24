@@ -29,3 +29,48 @@ $this->menu=array(
 		'email',
 	),
 )); ?>
+<a href="#" onclick="exps()" id="addExp"> Agregar Experiencia </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" onclick="edus()" id="addEdu"> Agregar Educacion </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" onclick="cons()" id="addCon"> Agregar Conocimiento </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div id="exp" style="display:none">
+<?php $this->renderPartial('_exp', array('model'=>$exp,'id'=>$model->id)); ?>
+<a href="#" onclick="hide_exps()">Ocultar</a>
+</div>
+
+<div id="edu" style="display:none">
+<?php $this->renderPartial('_edu', array('model'=>$edu,'id'=>$model->id)); ?>
+<a href="#" onclick="hide_edus()">Ocultar</a>
+</div>
+
+<div id="con" style="display:none">
+<?php $this->renderPartial('_con', array('model'=>$con,'id'=>$model->id)); ?>
+<a href="#" onclick="hide_cons()">Ocultar</a>
+</div>
+<script>
+	function exps(){
+		$('#addExp').hide();
+		$('#exp').show();
+	}
+	function edus(){
+		$('#addEdu').hide();
+		$('#edu').show();
+	}
+	function cons(){
+		$('#addCon').hide();
+		$('#con').show();
+	}
+	function hide_exps(){
+		$('#addExp').show();
+		$('#exp').hide();
+	}
+	function hide_edus(){
+		$('#addEdu').show();
+		$('#edu').hide();
+	}
+	function hide_cons(){
+		$('#addCon').show();
+		$('#con').hide();
+	}
+	
+	
+</script>

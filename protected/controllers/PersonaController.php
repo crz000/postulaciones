@@ -50,9 +50,38 @@ class PersonaController extends Controller
 	 * @param integer $id the ID of the model to be displayed
 	 */
 	public function actionView($id)
-	{
+	{	$exp=new Experiencia;
+		$con=new Conocimiento;
+		$edu=new Educacion;
+		if(isset($_POST['Experiencia']))
+		{
+			$mod=new Experiencia;	
+			$mod->attributes=$_POST['Experiencia'];
+			$mod->save();
+			unset($mod);
+			
+		}	
+		if(isset($_POST['Educacion']))
+		{
+			$mod=new Educacion;	
+			$mod->attributes=$_POST['Educacion'];
+			$mod->save();
+			unset($mod);
+			
+		}	
+		if(isset($_POST['Conocimiento']))
+		{
+			$mod=new Conocimiento;	
+			$mod->attributes=$_POST['Conocimiento'];
+			$mod->save();
+			unset($mod);
+			
+		}			
 		$this->render('view',array(
 			'model'=>$this->loadModel($id),
+			'exp'=>$exp,
+			'con'=>$con,
+			'edu'=>$edu,
 		));
 	}
 
@@ -63,7 +92,7 @@ class PersonaController extends Controller
 	public function actionCreate()
 	{
 		$model=new Persona;
-
+		
 		// Uncomment the following line if AJAX validation is needed
 		$this->performAjaxValidation($model);
 
