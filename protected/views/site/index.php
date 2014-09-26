@@ -1,20 +1,33 @@
 <?php
 /* @var $this SiteController */
-
 $this->pageTitle=Yii::app()->name;
 ?>
 
-<h1>Welcome to <i><?php echo CHtml::encode(Yii::app()->name); ?></i></h1>
-
-<p>Congratulations! You have successfully created your Yii application.</p>
-
-<p>You may change the content of this page by modifying the following two files:</p>
-<ul>
-	<li>View file: <code><?php echo __FILE__; ?></code></li>
-	<li>Layout file: <code><?php echo $this->getLayoutFile('main'); ?></code></li>
-</ul>
-
-<p>For more details on how to further develop this application, please read
-the <a href="http://www.yiiframework.com/doc/">documentation</a>.
-Feel free to ask in the <a href="http://www.yiiframework.com/forum/">forum</a>,
-should you have any questions.</p>
+<script src="<?php echo Yii::app() -> request -> baseUrl; ?>/js/modernizr-2.6.1.min.js"></script>
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+    <script src="<?php echo Yii::app() -> request -> baseUrl; ?>/js/lean-slider.js"></script>
+    <link rel="stylesheet" href="<?php echo Yii::app() -> request -> baseUrl; ?>/css/lean-slider.css" type="text/css" />
+    <link rel="stylesheet" href="<?php echo Yii::app() -> request -> baseUrl; ?>/css/sample-styles.css" type="text/css" />
+  <div class="bg1">  
+		   <div class="content">
+			<div class="container_12">
+			
+                                      
+                </div>
+            </div>
+        </div>
+        <div class="bottom_block1">
+            <div class="container_12">
+              
+            </div>
+        </div>
+        
+<script type="text/javascript">
+    $(document).ready(function() {
+        var slider = $('#slider').leanSlider({
+            directionNav: '#slider-direction-nav',
+            controlNav: '#slider-control-nav'
+        });
+    });
+    </script>

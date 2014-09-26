@@ -1,10 +1,10 @@
 body
 {
-	margin: 0;
-	padding: 0;
-	color: #555;
-	font: normal 10pt Arial,Helvetica,sans-serif;
-	background: #EFEFEF;
+	position: relative;
+	min-width: 960px;
+    background: url(../images/bg_body.png) 0 0 repeat #a4a2a1;
+    color: #83868a;
+    font: 13px/18px 'Ubuntu', sans-serif;
 }
 
 #page
@@ -22,10 +22,7 @@ body
 	border-top: 3px solid #C9E0ED;
 }
 
-#content
-{
-    padding: 20px;
-}
+
 
 #sidebar
 {
@@ -49,36 +46,52 @@ body
 
 #mainmenu
 {
-	background:white url(bg.gif) repeat-x left top;
+		z-index: 999;
+	float: right;
+	position: relative;
+	padding-right: 0px;
+
 }
 
 #mainmenu ul
 {
-	padding:6px 20px 5px 20px;
-	margin:0px;
+		z-index: 990;
+	text-align: center;
+	position: relative;
+
 }
 
 #mainmenu ul li
 {
-	display: inline;
+		float:left;position:relative;
 }
 
 #mainmenu ul li a
 {
-	color:#ffffff;
-	background-color:transparent;
-	font-size:12px;
-	font-weight:bold;
-	text-decoration:none;
-	padding:5px 8px;
+		display: block;
+	padding: 104px 12px 27px;
+	text-align: center;
+	overflow: hidden;
+	position: relative;
+	z-index: 30;
+	z-index: 999;
+	color: #434343;
+
 }
 
-#mainmenu ul li a:hover, #mainmenu ul li.active a
-{
-	color: #6399cd;
-	background-color:#EFF4FA;
-	text-decoration:none;
+#mainmenu ul li a:hover{
+	color: #fff;
+	background-color: #E77817;
 }
+#mainmenu ul li.active a
+ 	{
+
+		color: #fff;
+		background-color: #3BB3C2;
+ 		text-decoration:none;
+ 	}
+
+
 
 div.flash-error, div.flash-notice, div.flash-success
 {
@@ -137,13 +150,14 @@ div.view
 
 div.breadcrumbs
 {
-	font-size: 0.9em;
-	padding: 5px 20px;
+	font-size: 1.1em;
+	padding: 8px 0px 5px 0px;
 }
 
 div.breadcrumbs span
 {
 	font-weight: bold;
+	color: #E77817;
 }
 
 div.search-form
@@ -227,3 +241,41 @@ div.search-form
 {
 	background: #80CFFF;
 }
+
+
+#footermenu
+{
+		padding-bottom: 70px;
+
+}
+
+#footermenu ul
+{
+	padding-top: 42px;
+    color: #fff;
+    overflow: hidden;
+    text-transform: uppercase;
+    text-decoration:none;
+
+}
+
+#footermenu ul li
+{
+		float: left;
+}
+
+#footermenu ul li a
+{
+	 color: #fff;
+
+}
+
+#footermenu ul li a:hover{
+	 text-decoration: underline;
+    color: #fff;
+}
+#footermenu ul li.active a
+ 	{
+ 	text-decoration: underline;
+    color: #fff;
+ 	}

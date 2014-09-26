@@ -242,3 +242,975 @@ Stack trace:
 #26 {main}
 REQUEST_URI=/postulaciones/index.php?r=persona/view&id=1
 ---
+2014/09/25 22:32:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 2.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 2...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%202.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 1.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 1...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%201.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 4.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 4...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%204.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 3.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 3...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%203.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 5.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 5...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%205.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 6.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 6...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%206.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner2.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner2.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 2.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 2...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%202.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 1.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 1...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%201.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 6.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 6...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%206.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 5.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 5...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%205.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 4.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 4...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%204.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 3.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 3...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%203.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner2.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner2.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 3.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 3...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%203.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 2.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 2...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%202.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 1.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 1...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%201.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 4.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 4...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%204.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 5.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 5...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%205.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 6.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 6...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%206.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner2.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner2.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 2.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 2...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%202.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 1.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 1...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%201.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 3.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 3...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%203.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 4.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 4...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%204.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 6.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 6...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%206.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 5.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 5...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%205.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner2.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner2.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 2.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 2...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%202.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 1.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 1...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%201.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 3.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 3...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%203.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 4.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 4...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%204.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 5.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 5...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%205.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 6.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 6...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%206.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner2.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner2.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/banner 2.jpg".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/banner 2...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/banner%202.jpg
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner2.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner2.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner2.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner2.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/minibanner.png".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('images/minibann...')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/images/minibanner.png
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:33:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:34:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:34:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:34:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:34:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:38:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:38:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:41:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/site/index
+---
+2014/09/25 22:41:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/site/index
+---
+2014/09/25 22:45:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/site/index
+---
+2014/09/25 22:45:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/site/index
+---
+2014/09/25 22:49:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/site/index
+---
+2014/09/25 22:49:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/site/index
+---
+2014/09/25 22:53:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:53:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:53:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "personas".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('personas')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/personas
+---
+2014/09/25 22:57:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 22:57:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/25 23:04:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/index.php?r=stock/quote
+---
+2014/09/25 23:04:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/index.php?r=stock/quote
+---
+2014/09/25 23:06:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/index.php?r=stock/quote
+---
+2014/09/25 23:06:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/index.php?r=stock/quote
+---
+2014/09/25 23:30:18 [error] [php] Undefined variable: users (C:\xampp\htdocs\postulaciones\protected\components\UserIdentity.php:21)
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute()
+#1 C:\xampp\htdocs\yii_fw\framework\base\CModel.php(159): CInlineValidator->validate()
+#2 C:\xampp\htdocs\postulaciones\protected\controllers\SiteController.php(94): LoginForm->validate()
+#3 C:\xampp\htdocs\yii_fw\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#4 C:\xampp\htdocs\yii_fw\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\yii_fw\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\xampp\htdocs\yii_fw\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\postulaciones\index.php(13): CWebApplication->run()
+REQUEST_URI=/postulaciones/site/login
+in C:\xampp\htdocs\postulaciones\protected\components\UserIdentity.php (21)
+in C:\xampp\htdocs\postulaciones\protected\models\LoginForm.php (52)
+in C:\xampp\htdocs\postulaciones\protected\controllers\SiteController.php (94)
+2014/09/25 23:50:51 [error] [exception.SoapFault] SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://localhost:81/webservice/index.php?r=usuario/quote' : Extra content at the end of the document
+ in C:\xampp\htdocs\postulaciones\protected\components\UserIdentity.php:21
+Stack trace:
+#0 C:\xampp\htdocs\postulaciones\protected\components\UserIdentity.php(21): SoapClient->SoapClient('http://localhos...')
+#1 C:\xampp\htdocs\postulaciones\protected\models\LoginForm.php(52): UserIdentity->authenticate()
+#2 C:\xampp\htdocs\yii_fw\framework\validators\CInlineValidator.php(42): LoginForm->authenticate('password', Array)
+#3 C:\xampp\htdocs\yii_fw\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute(Object(LoginForm), 'password')
+#4 C:\xampp\htdocs\yii_fw\framework\base\CModel.php(159): CValidator->validate(Object(LoginForm), NULL)
+#5 C:\xampp\htdocs\postulaciones\protected\controllers\SiteController.php(94): CModel->validate()
+#6 C:\xampp\htdocs\yii_fw\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#7 C:\xampp\htdocs\yii_fw\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#8 C:\xampp\htdocs\yii_fw\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#9 C:\xampp\htdocs\yii_fw\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(282): CController->run('login')
+#11 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#12 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/postulaciones/site/login
+HTTP_REFERER=http://localhost:81/postulaciones/site/login
+---
+2014/09/25 23:51:48 [error] [php] Object of class SoapClient could not be converted to int (C:\xampp\htdocs\postulaciones\protected\components\UserIdentity.php:23)
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute()
+#1 C:\xampp\htdocs\yii_fw\framework\base\CModel.php(159): CInlineValidator->validate()
+#2 C:\xampp\htdocs\postulaciones\protected\controllers\SiteController.php(94): LoginForm->validate()
+#3 C:\xampp\htdocs\yii_fw\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#4 C:\xampp\htdocs\yii_fw\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 C:\xampp\htdocs\yii_fw\framework\web\CController.php(286): SiteController->runAction()
+#6 C:\xampp\htdocs\yii_fw\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#7 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(282): SiteController->run()
+#8 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\postulaciones\index.php(13): CWebApplication->run()
+REQUEST_URI=/postulaciones/site/login
+in C:\xampp\htdocs\postulaciones\protected\components\UserIdentity.php (23)
+in C:\xampp\htdocs\postulaciones\protected\models\LoginForm.php (52)
+in C:\xampp\htdocs\postulaciones\protected\controllers\SiteController.php (94)
+2014/09/26 00:10:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:10:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:11:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:11:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:16:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:16:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:16:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:16:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:35:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:35:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:36:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:36:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:37:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:37:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:37:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:37:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:39:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:39:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:41:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:41:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/
+---
+2014/09/26 00:41:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/site/index
+---
+2014/09/26 00:41:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/site/index
+---
+2014/09/26 00:41:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/modernizr-2.6.1.min.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/modernizr-2....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/modernizr-2.6.1.min.js
+HTTP_REFERER=http://localhost:81/postulaciones/site/index
+---
+2014/09/26 00:41:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/lean-slider.js".' in C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii_fw\framework\web\CWebApplication.php(141): CWebApplication->runController('js/lean-slider....')
+#1 C:\xampp\htdocs\yii_fw\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\postulaciones\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/postulaciones/js/lean-slider.js
+HTTP_REFERER=http://localhost:81/postulaciones/site/index
+---
